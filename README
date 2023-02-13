@@ -1,3 +1,9 @@
+This project is essentially playing around CSS and HTML to get us comfortable in front end design and work.
+This challenge is so we have something to send to potential employers as an example of our possible work.
+Below is the potential criteria a potential employer may have for our work.
+
+---------------
+
 GIVEN I need to sample a potential employee's previous work
 WHEN I load their portfolio
 THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
